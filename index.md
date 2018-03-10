@@ -2,7 +2,7 @@
 
 
 
-## East Notable Past Noteboods Notebooks
+## East Notable Past Notebooks
 
 - [**2616F** _2015-2016_ Engineering Notebook (Nothing But Net)](https://github.com/EastRobotics/Notebooks/raw/master/2616F-2015-16.pdf)
 
