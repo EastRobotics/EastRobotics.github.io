@@ -1,6 +1,3 @@
-layout: page
-title: "Notebooks.CHERobotics.com"
-
 # Welcome to Cherry Hill East Robotics 
 
 ## East Notable Past Notebooks
