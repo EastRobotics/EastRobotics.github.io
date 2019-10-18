@@ -12,7 +12,7 @@
     <h1>{{ "Hello World!" | downcase }}</h1>
   </body>
 </html>
-<a href="https://github.com/EastRobotics/Notebooks/blob/master/2616F-2015-16.pdf" download>**2616F** _2015-2016_ Engineering Notebook (Nothing But Net)</a href>
+<a href="https://github.com/EastRobotics/Notebooks/blob/master/2616F-2015-16.pdf" download>2616F _2015-2016_ Engineering Notebook (Nothing But Net)</a>
 
 -[**2616F** _2015-2016_ Engineering Notebook (Nothing But Net)](https://github.com/EastRobotics/Notebooks/blob/master/2616F-2015-16.pdf)
 
