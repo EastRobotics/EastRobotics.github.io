@@ -12,4 +12,4 @@
 
 -[**2616Y** _2017-2018_ Engineering Notebook (In The Zone)](https://github.com/EastRobotics/Notebooks/blob/master/2616Y-2017-2018-InTheZone.pdf)
 
--[**2616Y** _2018-2019_ Engineering Notebook (Turning Point)](https://github.com/EastRobotics/Notebooks/blob/master/2616Y-2018-2019-TurningPoint.pdf)
+-[**2616Y** _2018-2019_ Engineering Notebook (Turning Point)](https://github.com/EastRobotics/Notebooks/blob/master/2616Y-2018-2019-TurningPoint.pdf type="application/pdf)
